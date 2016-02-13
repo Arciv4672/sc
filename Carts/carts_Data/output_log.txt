@@ -1,0 +1,39 @@
+Mono path[0] = 'C:/Users/Krzysztof/Documents/Carts/carts_Data/Managed'
+Mono path[1] = 'C:/Users/Krzysztof/Documents/Carts/carts_Data/Mono'
+Mono config path = 'C:/Users/Krzysztof/Documents/Carts/carts_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Krzysztof/Documents/Carts/carts_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55238
+Multi-casting "[IP] 25.117.51.166 [Port] 55238 [Flags] 3 [Guid] 41012906 [EditorId] 765060321 [Version] 1048832 [Id] WindowsPlayer(GAMEMASTER) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [25.117.51.166:55238]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56906
+PlayerConnection already initialized - listening to [25.117.51.166:55238]
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560M  (ID=0x1251)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Krzysztof\Documents\Carts\carts_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.725100 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2e80 -> priority: 1 
+  Thread -> id: 26d4 -> priority: 1 
